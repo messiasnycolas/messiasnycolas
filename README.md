@@ -1,5 +1,10 @@
-### Hi there 👋
+# Olá, seja bem vindo(a)!
+- 🎓 Estudando CST em Desenvolvimento Web na Anhaguera Educacional
+- 🔭 À procura de uma primeira oportunidade no mercado.
+- 🌱 Atualmente aprendendo Ruby, Kotlin e POO!
+- 📫 Como chegar até mim: LinkedIn na bio 👈
 
+![Alt Text](https://i.pinimg.com/originals/89/ea/39/89ea39a387d0dea3684b44171110199d.gif)
 <!--
 **messiasnycolas/messiasnycolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
