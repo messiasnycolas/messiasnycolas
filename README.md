@@ -1,8 +1,8 @@
 # Olá, seja bem vindo(a)!
-- 🎓 Estudando CST em Desenvolvimento Web na Anhaguera Educacional
-- 🔭 À procura de uma primeira oportunidade no mercado.
-- 🌱 Atualmente aprendendo Ruby, Kotlin e POO!
-- 📫 Como chegar até mim: LinkedIn na bio 👈
+- 🎓丨Estudando CST em Desenvolvimento Web na Anhaguera Educacional.
+- 🔭丨À procura de uma primeira oportunidade no mercado.
+- 🌱丨Atualmente aprendendo Ruby, Kotlin e POO!
+- 📫丨Como chegar até mim: LinkedIn na bio. 👈
 
 ![Alt Text](https://i.pinimg.com/originals/89/ea/39/89ea39a387d0dea3684b44171110199d.gif)
 <!--
