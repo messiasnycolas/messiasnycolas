@@ -1,10 +1,24 @@
-# Olá, seja bem vindo(a)!
-- 🎓丨Estudando CST em Desenvolvimento Web na Anhaguera Educacional.
-- 🔭丨À procura de uma primeira oportunidade no mercado.
-- 🌱丨Atualmente aprendendo React e Node!
-- 📫丨Como chegar até mim: LinkedIn na bio. 👈
+# Olá, seja bem vind@!
 
-![Alt Text](https://i.pinimg.com/originals/89/ea/39/89ea39a387d0dea3684b44171110199d.gif)
+- 👨‍💻丨Atuo como Programador Fullstack, mas pendo fortemente para o Backend.
+- 📚丨Atualmente estudo frameworks NodeJS, Typescript e serviços cloud!
+- 🎓丨Curso *Desenvolvimento Web* na *Anhaguera Educacional* (2/4 períodos).
+<br>
+<p align="center">
+  <img height="200em" src="https://i.pinimg.com/originals/89/ea/39/89ea39a387d0dea3684b44171110199d.gif">
+</p>
+
+##
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=messiasnycolas&count_private=true&show_icons=true&theme=radical&locale=pt-br&border_color=1aff19">⠀
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=messiasnycolas&layout=compact&theme=radical&locale=pt-br&border_color=1aff19">
+</p>
+
+##
+<p align="center">
+  <a href="mailto:nycolaspmessias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://bit.ly/nycolaslinkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 <!--
 **messiasnycolas/messiasnycolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +32,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👍
 -->
