@@ -1,12 +1,9 @@
 # Olá, seja bem vind@!
 
-- 👨‍💻丨Atuo como Programador Fullstack, mas pendo fortemente para o Backend.
-- 📚丨Atualmente estudo frameworks NodeJS, Typescript e serviços cloud!
+- 👨‍💻丨Atuo como Programador Fullstack, com maior proficiência no Back end.
+- 📚丨Atualmente estudo frameworks NodeJS, DevOps e serviços cloud!
 - 🎓丨Curso *Desenvolvimento Web* na *Anhaguera Educacional* (2/4 períodos).
 <br>
-<p align="center">
-  <img height="200em" src="https://i.pinimg.com/originals/89/ea/39/89ea39a387d0dea3684b44171110199d.gif">
-</p>
 
 ##
 <p align="center">
