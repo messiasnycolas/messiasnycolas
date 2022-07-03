@@ -1,2 +1,1 @@
-# Welcome
-![Metrics](https://metrics.lecoq.io/messiasnycolas)
+![Metrics](/github-metrics.svg)
